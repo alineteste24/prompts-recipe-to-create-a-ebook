@@ -23,3 +23,7 @@ Leonardo AI
 |  Ação  | prompt                                                                                 |
  Crie uma imagem para um ebook com o titulo: "Pequenos Super-Heróis das Finanças: Aventuras para Aprender a Economizar e Investir"
 
+PROJETO EBOOK
+
+[Pequenos super herois das financas.pdf](https://github.com/user-attachments/files/18391576/Pequenos.super.herois.das.financas.pdf)
+
